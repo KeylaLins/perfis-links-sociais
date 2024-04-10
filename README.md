@@ -14,13 +14,6 @@ Construir um perfil de compartilhamento de links sociais.
 - Propiedades CSS
 - Flexbox
 
-## Layout
-
-Os designs foram criados nas seguintes larguras:
-
-- Mobile: 375px
-- Desktop: 1440px
-
 ## Colors
 
 Primária: hsl(75, 94%, 57%)
