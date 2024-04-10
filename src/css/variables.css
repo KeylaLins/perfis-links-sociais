@@ -1,0 +1,7 @@
+:root {
+  --detalhes: hsl(75, 94%, 57%);
+  --padrao-texto: hsl(0, 0%, 100%);
+  --fundo-pagina: hsl(0, 0%, 8%);
+  --fundo-cartao: hsl(0, 0%, 12%);
+  --botao: hsl(0, 0%, 20%);
+}
