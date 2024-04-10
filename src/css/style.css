@@ -69,3 +69,9 @@ body{
   font-weight: 600;
   font-size: 14px;
 }
+
+.container .redes li:hover{
+  background-color: var(--detalhes);
+  color: var(--fundo-pagina);
+  font-weight: 700;
+}

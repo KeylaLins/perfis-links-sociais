@@ -14,7 +14,7 @@ Construir um perfil de compartilhamento de links sociais.
 - Propiedades CSS
 - Flexbox
 
-## Colors
+## Colores
 
 Primária: hsl(75, 94%, 57%)
 
